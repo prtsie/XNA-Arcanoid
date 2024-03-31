@@ -16,6 +16,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Content\algerianFont.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Content\ball.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Content\block.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Content\Font.spritefont">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="fnalibs\x64\SDL2.dll">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
